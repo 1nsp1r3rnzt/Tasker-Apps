@@ -1,7 +1,7 @@
 
 # AnkiDroid Tasker quick adder
 
-Quickly add works and sentence to anki using tasker on android smartphone
+Quickly add words and sentence to anki using tasker on android smartphone
 ## Getting Started
 Import the [project](https://raw.githubusercontent.com/1nsp1r3rnzt/Tasker-Apps/master/Anki%20Tasker%20quick%20add%20words/Anki_Add_Movile.prj.xml) in tasker. 
 
