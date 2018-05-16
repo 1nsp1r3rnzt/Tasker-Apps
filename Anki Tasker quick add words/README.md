@@ -16,6 +16,7 @@ colordict
 **My card type is 3 fields. Edit the task according to your card type or make a 3 fields card in Anki.**
 
 Import project
+
 Setup autoshare preprocessor as ![screenshot 1](https://github.com/1nsp1r3rnzt/Tasker-Apps/blob/master/Anki%20Tasker%20quick%20add%20words/other%20steps%20autoshare%201.jpg?raw=true)
 Setup Manage command for add2ankilatest
 ![screenshot 2](https://github.com/1nsp1r3rnzt/Tasker-Apps/blob/master/Anki%20Tasker%20quick%20add%20words/other%20steps%20autoshare%202.jpg?raw=true)
